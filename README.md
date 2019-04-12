@@ -14,7 +14,7 @@ youtube : GUNAWAN ID
     $ pkg install bash
     $ git clone https://github.com/GUNAWAN18ID/PROFIL-GUARD.git
     $ sh install.sh
-    $ cd PROFIL GUARD
+    $ cd PROFIL-GUARD
     $ python2 guard.py
     
     
