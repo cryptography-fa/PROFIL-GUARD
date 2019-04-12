@@ -12,8 +12,8 @@ youtube : GUNAWAN ID
 ## CARA INSTALL DAN MENJALANKAN TOOL
     $ pkg install git
     $ pkg install python2
-    $ git clone 
-    $ cd PROFIL GUARD
+    $ git clone https://github.com/GUNAWAN18ID/PROFIL-GUARD.git
+    $ cd PROFIL PROFIL-GUARD
     $ pip2 install requests
     $ python2 guard.py
     
